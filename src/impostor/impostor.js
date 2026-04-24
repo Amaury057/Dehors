@@ -1,4 +1,4 @@
-import * as THREE from 'https://esm.sh/three@0.132.2';
+import * as THREE from 'three';
 
 export class ImpostorManager {
     constructor(scene, camera) {
